@@ -1,0 +1,14 @@
+D:\Manisha\Projects\CustomerDetailSystem\bin\Debug\netcoreapp2.2\CustomerDetailSystem.deps.json
+D:\Manisha\Projects\CustomerDetailSystem\bin\Debug\netcoreapp2.2\CustomerDetailSystem.runtimeconfig.json
+D:\Manisha\Projects\CustomerDetailSystem\bin\Debug\netcoreapp2.2\CustomerDetailSystem.runtimeconfig.dev.json
+D:\Manisha\Projects\CustomerDetailSystem\bin\Debug\netcoreapp2.2\CustomerDetailSystem.dll
+D:\Manisha\Projects\CustomerDetailSystem\bin\Debug\netcoreapp2.2\CustomerDetailSystem.pdb
+D:\Manisha\Projects\CustomerDetailSystem\obj\Debug\netcoreapp2.2\CustomerDetailSystem.csproj.CoreCompileInputs.cache
+D:\Manisha\Projects\CustomerDetailSystem\obj\Debug\netcoreapp2.2\CustomerDetailSystem.RazorAssemblyInfo.cache
+D:\Manisha\Projects\CustomerDetailSystem\obj\Debug\netcoreapp2.2\CustomerDetailSystem.RazorAssemblyInfo.cs
+D:\Manisha\Projects\CustomerDetailSystem\obj\Debug\netcoreapp2.2\CustomerDetailSystem.AssemblyInfoInputs.cache
+D:\Manisha\Projects\CustomerDetailSystem\obj\Debug\netcoreapp2.2\CustomerDetailSystem.AssemblyInfo.cs
+D:\Manisha\Projects\CustomerDetailSystem\obj\Debug\netcoreapp2.2\CustomerDetailSystem.RazorTargetAssemblyInfo.cache
+D:\Manisha\Projects\CustomerDetailSystem\obj\Debug\netcoreapp2.2\CustomerDetailSystem.dll
+D:\Manisha\Projects\CustomerDetailSystem\obj\Debug\netcoreapp2.2\CustomerDetailSystem.pdb
+D:\Manisha\Projects\CustomerDetailSystem\obj\Debug\netcoreapp2.2\CustomerDetailSystem.csprojAssemblyReference.cache
